@@ -26,6 +26,5 @@
   
   <img src="SCREENSHOTS/PIC9.jpg">
   
-<h2> Database Design Screenshot </h2> 
-  <img src="SCREENSHOTS/PIC10.jpg">
+
   
