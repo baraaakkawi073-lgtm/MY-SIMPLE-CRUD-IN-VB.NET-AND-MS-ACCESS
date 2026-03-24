@@ -2,9 +2,9 @@
 
 * Purpose: My Project
 * Programming Language: Visual Basic.Net
-* Target Framework: .Net Framework 4.6.1
-* IDE: MS Visual Studio 2012
-* Backend Database: MS Access 2013
+* Target Framework: .Net Framework
+* IDE: MS Visual Studio 
+* Backend Database: MS Access
 * Type of Application: Desktop Application (Windows Forms)
   
 <h2> User Interface Screenshots </h2> 
